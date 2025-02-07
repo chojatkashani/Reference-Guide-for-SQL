@@ -1,6 +1,5 @@
 # Reference-Guide-for-SQL
 
-
 ---
 
 ## **Table of Contents**  
